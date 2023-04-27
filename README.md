@@ -4,4 +4,4 @@ In House datasets
 
 | Partners       | Short Description | Type of Data   | #Patients      | Availability   |
 |      :---:     |       :---:       |      :---:     |      :---:     |      :---:     |
-| This is a test | This is a test    | This is a test | This is a test | This is a test |
+|KI              | NGS and methylation can be exploited for neoantigen designation    | WGS, WES, RNAseq, targeted panels. Full clinical annotation. | n > 100 | In House |
