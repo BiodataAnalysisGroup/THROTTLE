@@ -6,7 +6,12 @@
 
 | Partners       | Country | Short Description | Type of Data   | No of Patients | Availability   |
 |      :---:     |  :---:  |      :---:       |      :---:     |      :---:     |      :---:     |
-| Erasmus MC | NL | Non-small cell lung cancer (NSCLC) study | WGS, WES, RNAseq, targeted panels. Full clinical annotation. | n > 100 | In House |
+| Erasmus MC | NL | Non-small cell lung cancer (NSCLC) study | WGS, WES, RNAseq, targeted panels, Full clinical annotation | n = 250 | In House, PMID: 36634572 |
+| Erasmus MC | NL | Pan-cancer NGS cohort of advanced patients with immunotherapy | DNAseq, RNAseq, biopsies | n > 100 | In House |
+| HCFR | GR | Non-small cell lung cancer PD-L1 in the majority | Clinical (clinicopathological followed up, treatment), NGS (DNA, RNAseq) | n = 700 | In House |
+| UZA | BE | NSCLC cohort | NSCLC adenocarcinoma (H&E stained resections and biopsies) available for WSI. Paired excision - biopsy | n > 100 | In House |
+| UZA | BE | NSCLC cohort | NSCLC cases  with clinical, outcome  and NGS data from clinical practice | n = 750 | In House |
+| UZA | BE | DSP analysis NSCLC tumour microenvironment | DSP whole transcriptome data with full clinical annotation and molecular annotation | n = 8 | In House |
 
 ### CLL
 
