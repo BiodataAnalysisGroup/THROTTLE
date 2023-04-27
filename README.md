@@ -1,14 +1,14 @@
 # THROTTLE
 
-# In House
+## In House Datasets
 
-## Lung
+### Lung
 
 | Partners       | Country | Short Description | Type of Data   | No of Patients | Availability   |
 |      :---:     |  :---:  |      :---:       |      :---:     |      :---:     |      :---:     |
 | Erasmus MC | NL | Non-small cell lung cancer (NSCLC) study | WGS, WES, RNAseq, targeted panels. Full clinical annotation. | n > 100 | In House |
 
-## CLL
+### CLL
 
 | Partners       | Country | Short Description | Type of Data   | No of Patients | Availability   |
 |      :---:     |  :---:  |      :---:       |      :---:     |      :---:     |      :---:     |
